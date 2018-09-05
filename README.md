@@ -25,6 +25,18 @@
         .catch( error => {
             //handle error
         });
+	
+    4.Promise.all
+    
+    cú pháp: Promise.all(iterable)
+    - Phương thức Promise.all(iterable) trả ra một Promise mới và promise mới này chỉ được kết thúc khi tất cả các promise trong iterable kết thúc hoặc có một promise nào đó xử lý thất bại. Kết quả của promise mới này là một mảng chứa kết quả của tất cả các promise theo đúng thứ tự hoặc kết quả lỗi của promise gây lỗi.
+    
+    [](https://github.com/thanhcong051593/promise/blob/master/tE2EKoM_xgraau.png)
+    link tham khảo: https://developer.mozilla.org/vi/docs/Web/JavaScript/Reference/Global_Objects/Promise/all
+    
+    5. Promise.race
+    cú pháp: Promise.race
+    - 
     
 ## Thực hành
     - Viết đoạn code sử dụng promise để đọc file data.txt
