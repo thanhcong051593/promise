@@ -9,4 +9,4 @@ promise.then(function(){
 	console.log("reject");
 });
 
-//
+//kết quả in ra màn hình là reject 
