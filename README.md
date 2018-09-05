@@ -10,4 +10,4 @@
     B2: tạo 1 file promise.js
     B3: import thư viện readFile
     B4: khai báo promise
-    B5: V
+    B5: Viết code
