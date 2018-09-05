@@ -6,5 +6,7 @@ promise.then(function(){
 	console.log("resolve");
 })
 .catch(function(){
-	console.log("r");
+	console.log("reject");
 });
+
+//
