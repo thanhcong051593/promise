@@ -9,4 +9,4 @@ promise.then(function(){
 	console.log("reject");
 });
 
-//k
+//in ra màn hình là resolve
